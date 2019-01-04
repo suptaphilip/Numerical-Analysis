@@ -21,7 +21,7 @@
 
 ## CSE 231 Numerical Analysis
 
-[Course outline]()
+[Course outline](https://github.com/suptaphilip/Numerical-Analysis/raw/Fall-2018/OBC%20CSE%20231%20Numerical.pdf)
 
 ### Lecture Notes
 
@@ -37,16 +37,16 @@
 
 ## CSE 232 Numerical Analysis Laboratory
 
-[Course outline]()
+[Course outline](https://github.com/suptaphilip/Numerical-Analysis/raw/Fall-2018/OBC%20CSE%20232%20Numerical%20Lab.pdf)
 
 ### Laboratory
 
-> [Lab 1](https://github.com/suptaphilip/CityUniversity-NumericalAnalysis/raw/Fall-2018/Lab%201.pdf)
+> [Lab 1](https://github.com/suptaphilip/Numerical-Analysis/raw/Fall-2018/Lab%201.pdf)
 
-> [Lab 2]()
+> [Lab 2](https://github.com/suptaphilip/Numerical-Analysis/raw/Fall-2018/Lab%202.pdf)
 ### Matlab Tutorials
 
-> [Titorial]()
+> [Tutorials](https://www.youtube.com/playlist?list=PL60D54836FB8893F0)
 
 
 ### Books
