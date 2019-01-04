@@ -51,6 +51,9 @@
 > [Lab 1](https://github.com/suptaphilip/Numerical-Analysis/raw/Fall-2018/Lab%201.pdf)
 
 > [Lab 2](https://github.com/suptaphilip/Numerical-Analysis/raw/Fall-2018/Lab%202.pdf)
+
+>[Root finding using Bisection and Regular Falsi Methos](https://github.com/suptaphilip/Numerical-Analysis/raw/Fall-2018/Root%20Finding.pdf)
+
 ### Matlab Tutorials
 
 > [Tutorials](https://www.youtube.com/playlist?list=PL60D54836FB8893F0)
