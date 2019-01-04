@@ -6,7 +6,7 @@
 #### Announcements
 
 ```diff
-+ Quiz 1 Date:
++ Quiz 1 Date: 11.01.2019
 
 * Assignment 1 Submission Date:
 
@@ -22,6 +22,13 @@
 ## CSE 231 Numerical Analysis
 
 [Course outline](https://github.com/suptaphilip/Numerical-Analysis/raw/Fall-2018/OBC%20CSE%20231%20Numerical.pdf)
+
+
+### Previous Questions 
+
+> [Summer 2018 mid](https://github.com/suptaphilip/Numerical-Analysis/raw/Fall-2018/Summer%202018%20CSE%20231%20Numerical%20Analysis%20Mid.pdf)
+
+> [Summer 2018 Final]()
 
 ### Lecture Notes
 
