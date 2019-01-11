@@ -11,7 +11,7 @@
 + Quiz 1 Date: 11.01.2019
 + Quiz 2 Date: 18.01.2019
 
-* Assignment 1 Submission Date:
+* Assignment 1 Submission Date: 18.1.2019
 
 - Project Report and submission Date:
 
@@ -38,7 +38,7 @@
 >
 
 ### Assignment
-> [Assignmet 1]() is uploaded. Due date: 
+> [Assignmet 1](https://github.com/suptaphilip/Numerical-Analysis/raw/Fall-2018/Assignment%201.pdf) is uploaded. Due date: 18.1.2019
 
 
 
