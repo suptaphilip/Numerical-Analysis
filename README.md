@@ -1,5 +1,7 @@
 # City university
 
+## [Home](https://suptaphilip.github.io/)
+
 ## CSE 231 and CSE 232 Numerical Analysis
 
 #### All the materials(notes, slide, handouts, books, code) and announcement, you will find in the course home page.
@@ -7,12 +9,13 @@
 
 ```diff
 + Quiz 1 Date: 11.01.2019
++ Quiz 2 Date: 18.01.2019
 
 * Assignment 1 Submission Date:
 
 - Project Report and submission Date:
 
-* Lab MidTerm Date:
+* Lab MidTerm Date: 
 * Lab FinalTerm Date:
 
 ```
@@ -53,6 +56,8 @@
 > [Lab 2](https://github.com/suptaphilip/Numerical-Analysis/raw/Fall-2018/Lab%202.pdf)
 
 >[Root finding using Bisection and Regular Falsi Methos](https://github.com/suptaphilip/Numerical-Analysis/raw/Fall-2018/Root%20Finding.pdf)
+
+>[Root finding using fixed point iteration, Newton Raphson and Secant Methos](https://github.com/suptaphilip/Numerical-Analysis/raw/Fall-2018/Root%20Finding%202.pdf)
 
 ### Matlab Tutorials
 
