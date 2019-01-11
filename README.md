@@ -11,8 +11,7 @@
 + Quiz 1 Date: 11.01.2019
 + Quiz 2 Date: 18.01.2019
 
-* Assignment 1 Submission Date: 18.1.2019
-
+- Assignment 1 Submission Date: 18.1.2019
 - Project Report and submission Date:
 
 * Lab MidTerm Date: 
