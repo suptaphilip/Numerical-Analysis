@@ -12,10 +12,12 @@
 + Quiz 2 Date: 18.01.2019
 
 - Assignment 1 Submission Date: 18.1.2019
-- Project Report and submission Date:
+- Lab MidTerm Date: 08.02.2019
 
-* Lab MidTerm Date: 
+
+
 * Lab FinalTerm Date:
+* Project Report and submission Date:
 
 ```
 
@@ -66,7 +68,7 @@
 
 
 ### Books
-> [Matlab Book]()
+> [Matlab Book](https://github.com/suptaphilip/Numerical-Analysis/raw/Fall-2018/Numerical_method_in_Matlab.pdf)
 
 
 
