@@ -58,6 +58,8 @@
 
 >[Root finding using fixed point iteration, Newton Raphson and Secant Methos](https://github.com/suptaphilip/Numerical-Analysis/raw/Fall-2018/Root%20Finding%202.pdf)
 
+> [Cramer's Method](https://github.com/suptaphilip/Numerical-Analysis/raw/Fall-2018/Cramers%20method.pdf)
+
 ### Matlab Tutorials
 
 > [Tutorials](https://www.youtube.com/playlist?list=PL60D54836FB8893F0)
