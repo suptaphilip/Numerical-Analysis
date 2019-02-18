@@ -25,6 +25,8 @@
 
 ## CSE 231 Numerical Analysis
 
+### [Midterm and Quiz Marks](https://github.com/suptaphilip/Numerical-Analysis/raw/Fall-2018/Numerical%20Analysis%20Marks.pdf)
+
 [Course outline](https://github.com/suptaphilip/Numerical-Analysis/raw/Fall-2018/OBC%20CSE%20231%20Numerical.pdf)
 
 
