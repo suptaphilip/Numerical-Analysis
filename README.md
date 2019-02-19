@@ -38,7 +38,7 @@
 
 ### Lecture Notes
 
->
+> [Newton's Forward Interpolation](https://github.com/suptaphilip/Numerical-Analysis/raw/Fall-2018/NA%20Forward%20Method.pdf)
 
 ### Assignment
 > [Assignmet 1](https://github.com/suptaphilip/Numerical-Analysis/raw/Fall-2018/Assignment%201.pdf) is uploaded. Due date: 18.1.2019
