@@ -12,6 +12,7 @@
 + Quiz 2 Date: 18.01.2019
 
 - Assignment 1 Submission Date: 18.1.2019
+- Assignment 2 Submission Date: 1.3.2019
 - Lab MidTerm Date: 08.02.2019
 
 
@@ -43,6 +44,7 @@
 ### Assignment
 > [Assignmet 1](https://github.com/suptaphilip/Numerical-Analysis/raw/Fall-2018/Assignment%201.pdf) is uploaded. Due date: 18.1.2019
 
+> [Assignmet 2](https://github.com/suptaphilip/Numerical-Analysis/raw/Fall-2018/Assignment%202.pdf) is uploaded. Due date: 1.3.2019
 
 
 ### Books
