@@ -54,6 +54,10 @@
 
 [Course outline](https://github.com/suptaphilip/Numerical-Analysis/raw/Fall-2018/OBC%20CSE%20232%20Numerical%20Lab.pdf)
 
+## Final Project
+[Project: What to do](https://github.com/suptaphilip/Numerical-Analysis/raw/Fall-2018/Final%20Project.pdf)
+
+
 ### Laboratory
 
 > [Lab 1](https://github.com/suptaphilip/Numerical-Analysis/raw/Fall-2018/Lab%201.pdf)
