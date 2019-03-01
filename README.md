@@ -70,6 +70,10 @@
 
 > [Cramer's Method](https://github.com/suptaphilip/Numerical-Analysis/raw/Fall-2018/Cramers%20method.pdf)
 
+>[Taylor Series](https://raw.githubusercontent.com/suptaphilip/Numerical-Analysis/Fall-2018/TaylorSeries.m)
+
+>[Eulers Method](https://raw.githubusercontent.com/suptaphilip/Numerical-Analysis/Fall-2018/EulersMethod.m)
+
 ### Matlab Tutorials
 
 > [Tutorials](https://www.youtube.com/playlist?list=PL60D54836FB8893F0)
