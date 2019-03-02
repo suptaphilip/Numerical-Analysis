@@ -76,7 +76,9 @@
 
 ### Matlab Tutorials
 
-> [Tutorials](https://www.youtube.com/playlist?list=PL60D54836FB8893F0)
+> [Tutorials 1](https://www.youtube.com/playlist?list=PL60D54836FB8893F0)
+
+>[Tutorials 2](https://www.youtube.com/playlist?list=PLEJxKK7AcSEFtiPAlDTJywUIAIF8FGYXA)
 
 
 ### Books
