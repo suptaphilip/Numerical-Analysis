@@ -35,7 +35,7 @@
 
 > [Summer 2018 mid](https://github.com/suptaphilip/Numerical-Analysis/raw/Fall-2018/Summer%202018%20CSE%20231%20Numerical%20Analysis%20Mid.pdf)
 
-> [Summer 2018 Final]()
+> [Summer 2018 Final](https://github.com/suptaphilip/Numerical-Analysis/raw/Fall-2018/Summer-2018%20CSE%20231%20Numerical%20Analysis%20Final.pdf)
 
 ### Lecture Notes
 
